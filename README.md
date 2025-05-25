@@ -53,6 +53,9 @@ Front-End Developer Adayı
 Karabük Üniversitesi - Ön Yüz Yazılım Geliştirme  
 🔗 www.linkedin.com/in/feryaakar
 
+## 🔗 Canlı Görünüm
+https://ferllak.github.io/dew-light-/
+
 ## 📌 Not
 
 Bu proje, **İleri Web Tasarımı** dersi kapsamında bir dönem ödevi olarak hazırlanmıştır. Görsellik, sadelik ve kullanıcı deneyimi ön planda tutulmuştur.
